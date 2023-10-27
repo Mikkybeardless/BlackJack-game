@@ -1,0 +1,49 @@
+body{
+
+text-align: center;
+background-image: url(../images/main-background.jpg);
+color: #FFCF96;;
+font-weight: bold;
+font-size: 20px;
+margin-top: 2rem;
+}
+
+.container{
+  width: 30rem;
+  height: 34rem;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #232D3F;
+  border: 1px solid #FFCF96;
+  border-radius: 1rem;
+}
+
+.container-image{
+  width: 100%;
+  height: 15rem;
+  border-radius: 1rem 1rem 0 0;
+}
+
+
+.btn{
+  background-color: #FFCF96;
+  border-radius: 5px;
+  font-weight: bold;
+  padding: 25px, auto;
+  margin: 10px;
+  left: 20;
+  color: #272829;
+  width: 170px;
+}
+.text{
+  color:#FFCF96;
+  background-color: #272829;
+  width: 30rem;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #FFCF96;
+  border-radius: 6px;
+}
+.message-el{
+  font-style: italic;
+}
